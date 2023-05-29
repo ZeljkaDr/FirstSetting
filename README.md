@@ -1,3 +1,0 @@
-# FirstSetting
-Test
-Test
